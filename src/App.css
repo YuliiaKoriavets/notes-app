@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+}
+
+.line {
+  cursor: col-resize;
+  height: 100%;
+  width: 1px;
+  background-color: #dcdcdc;
+  z-index: 1000;
+}
